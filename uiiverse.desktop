@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Uiiverse
-Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://uiiverse.xyz/*
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://uiiverse.xyz/* $@ https://uiiverse.xyz
 Icon=assets/logo.svg
 Terminal=false
 Type=Application
