@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Uiiverse
+Exec=webapp-container --app-id="uiiverse.meltstrap" $@ www/index.html
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
