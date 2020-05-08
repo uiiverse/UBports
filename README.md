@@ -4,7 +4,7 @@ An ethical social network inspired by Nintendo's Miiverse.
 
 ## License
 
-Copyright (C) 2020  meltstrap
+Copyright (C) 2020  mintphin
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3, as published
 by the Free Software Foundation.
